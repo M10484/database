@@ -1,0 +1,29 @@
+3.0 Identify the Purpose of the Database
+
+The main purpose of the database is to support EJ’s Plant Nursery in efficiently managing its inventory, sales, damages, and delivery records while ensuring accuracy and accessibility of data. Specifically, the system is designed to:
+
+· “Inventory Database System for a Plant Nursery”
+· Provide a centralized storage of plant and seedling inventory records.
+· Automate manual processes such as sales recording, damage reporting, and delivery tracking.
+· Improve data access by allowing authorized users to view real-time information anytime.
+· Generate automated reports for sales, damages, and inventory activities.
+· Ensure reliable business operations through consistent and accurate records.
+
+4.0 Objectives of the System
+
+The objectives of the proposed system are to:
+
+· Automate the tracking of plant and seedling inventory, including stock-in and stock-out transactions.
+· Streamline the sales process by recording both walk-in and online customer orders.
+· Provide automated reports covering inventory movements, damages, and deliveries.
+· Enable staff to record damages and deliveries for accountability and better monitoring.
+· Improve overall efficiency, accuracy, and decision-making for EJ’s Plant Nursery operations.
+
+5.0 Comparison of Features
+Feature	Previous System (Manual/Existing)	Proposed / New System
+Data Storage	Stored in Excel sheets or paper records	Stored in a centralized database (e.g., MySQL)
+Inventory Monitoring	Manually checked by staff, prone to errors and delays	Real-time inventory tracking automatically updated after every transaction
+Sales Recording	Sales handwritten in notebooks or Excel	Digital recording of walk-in sales and online customer orders, auto-updating inventory
+Damage Reports	No formal record of damaged seedlings	Staff can record damages directly; stock levels updated automatically
+Automated Reports	Reports manually prepared, time-consuming	Reports (sales, inventory, damages, deliveries) auto-generated in PDF/Excel
+Delivery Records	Deliveries tracked manually with paper notes or receipts	Deliveries recorded in the system, linked to sales, ensuring accuracy and accountability
