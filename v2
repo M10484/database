@@ -1,25 +1,18 @@
-Online ordering
-Report generation
-Inventory 
-
 🌱 1. Inventory Monitoring
+👉 Purpose: To track all seedling stocks automatically without manual checking.
 
-👉 Monior sa inventory para makita lahat ng stocks sa seedling para di manual ang o mano mano ang pag monitor ng stock
+Old way: The owner checks stocks manually by counting or reviewing notebooks/Excel sheets.
 
-
+New way: System shows real-time stock levels (how many seedlings available, sold, or low).
 
 🌱 2. Automated Report Generation
+👉 Purpose: To generate automatic reports based on all inventory activities (added stock, deducted stock, sales, damages).
 
-👉 mga galaw sa inventory example may na dagdag may na bawas may damage
+Old way: Reports are made manually, consuming a lot of time and prone to errors.
 
+New way: Reports (daily, weekly, monthly) are automatically created by the system in PDF/Excel.
 
+🌱 3. Damage Reports
+👉 Purpose: To record and track damaged seedlings, which was not possible before.
 
-🌱 3. Damage reports
-
-👉 dito naman maka record damage si staff kasi dati wala damage repot mahirap malaman kong may na damage sa seedling
-
-🌱 5. Customer Management & Transaction History
-
-👉 The system stores customer details and their purchase history for future reference.
-
-Example sa nursery: If a customer frequently buys fertilizers or a certain type of bonsai, the owner can offer promos, discounts, or notify them when new stocks arrive.
+Old way: Damages were not formally recorded, leading to lost seedlings without proper accountability.
