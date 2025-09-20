@@ -1,0 +1,25 @@
+Online ordering
+Report generation
+Inventory 
+
+🌱 1. Inventory Monitoring
+
+👉 Monior sa inventory para makita lahat ng stocks sa seedling para di manual ang o mano mano ang pag monitor ng stock
+
+
+
+🌱 2. Automated sales Reports - tama ba to ?
+
+👉 mga galaw sa inventory example may na dagdag may na bawas may damage
+
+
+
+🌱 3. Damage reports
+
+👉 dito naman maka record damage si staff kasi dati wala damage repot mahirap malaman kong may na damage sa seedling
+
+🌱 5. Customer Management & Transaction History
+
+👉 The system stores customer details and their purchase history for future reference.
+
+Example sa nursery: If a customer frequently buys fertilizers or a certain type of bonsai, the owner can offer promos, discounts, or notify them when new stocks arrive.
