@@ -1,0 +1,29 @@
+🌱 1. Automated Inventory Tracking
+
+👉 Means the system will automatically update the stock count every time new plants or seedlings are added (stock-in) or sold (stock-out).
+
+Example sa nursery: Kung may 100 orchids at may customer na bumili ng 5, the system will auto-update at magiging 95 na lang ang stock.
+
+🌱 2. Sales Recording / POS Module
+
+👉 A digital way of recording all sales transactions, just like a mini point-of-sale (POS).
+
+Example sa nursery: Kapag may customer na bumili ng 10 succulents, ilalagay ng cashier sa system, and it will automatically compute the total price and even print a receipt if needed.
+
+🌱 3. Automated Report Generation
+
+👉 The system can create sales and inventory reports instantly, without manual computation.
+
+Example sa nursery: At the end of the week, the owner can generate a report showing which plants sold the most, total revenue, and remaining stocks.
+
+🌱 4. Low-stock Alerts & Reorder Suggestions
+
+👉 The system gives notifications if certain plants or seedlings are running low on stock and can suggest when to reorder.
+
+Example sa nursery: Kung 5 na lang ang natitirang rose plants (out of 50), the system will alert the owner/staff and suggest reordering from the supplier before stock runs out.
+
+🌱 5. Customer Management & Transaction History
+
+👉 The system stores customer details and their purchase history for future reference.
+
+Example sa nursery: If a customer frequently buys fertilizers or a certain type of bonsai, the owner can offer promos, discounts, or notify them when new stocks arrive.
